@@ -1,2 +1,6 @@
 # WordsearchProj Description
-Taking a datafile composed of a list of words, the program selects a number of words decided by the user and from this list of randomly selected words, creates a game of wordsearch which the user can then play by entering the coordinates of words they find. The longer the words found, the high total score the player will get. On a technical level, the program makes primary use of dynamic memory (1D and 2D), pointers, file accessing, and string manipulation.
+Taking a datafile composed of a list of words, the program selects a number of words decided by the user and from this list of randomly selected words, creates a game of wordsearch which the user can then play by entering the coordinates of words they find. The longer the words found, the high total score the player will get. 
+
+On a technical level, the program makes primary use of dynamic memory (1D and 2D), pointers, file accessing, and string manipulation.
+
+words.dat and egg.dat are also testing files used to run the program, egg.dat being specifically designed to ensure that the project was capable of overlapping words in the wordsearch.
